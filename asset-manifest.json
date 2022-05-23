@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.f9e6b034.chunk.css",
+    "main.js": "/portfolio/static/js/main.d79114e6.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.d79114e6.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.0bf68c44.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.0bf68c44.js.map",
+    "static/js/2.e421b9b4.chunk.js": "/portfolio/static/js/2.e421b9b4.chunk.js",
+    "static/js/2.e421b9b4.chunk.js.map": "/portfolio/static/js/2.e421b9b4.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.f9e6b034.chunk.css.map": "/portfolio/static/css/main.f9e6b034.chunk.css.map",
+    "static/js/2.e421b9b4.chunk.js.LICENSE.txt": "/portfolio/static/js/2.e421b9b4.chunk.js.LICENSE.txt",
+    "static/media/Django.4c399895.jpg": "/portfolio/static/media/Django.4c399895.jpg",
+    "static/media/bachelorsDegree.930fb59c.png": "/portfolio/static/media/bachelorsDegree.930fb59c.png",
+    "static/media/certificateCollege.84fa3f18.png": "/portfolio/static/media/certificateCollege.84fa3f18.png",
+    "static/media/comingSoon.f2b40e4f.png": "/portfolio/static/media/comingSoon.f2b40e4f.png",
+    "static/media/frontendNucamp.c4c09396.png": "/portfolio/static/media/frontendNucamp.c4c09396.png",
+    "static/media/fullstackNucamp.61c94616.png": "/portfolio/static/media/fullstackNucamp.61c94616.png",
+    "static/media/github.44eee0c4.png": "/portfolio/static/media/github.44eee0c4.png",
+    "static/media/muiLogo.742b4763.png": "/portfolio/static/media/muiLogo.742b4763.png",
+    "static/media/profileCircle_y.7a975b7f.png": "/portfolio/static/media/profileCircle_y.7a975b7f.png",
+    "static/media/udemyBlazorCSharp.bcd59454.png": "/portfolio/static/media/udemyBlazorCSharp.bcd59454.png",
+    "static/media/udemyDjangoReact.82d4195a.png": "/portfolio/static/media/udemyDjangoReact.82d4195a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bf68c44.js",
+    "static/js/2.e421b9b4.chunk.js",
+    "static/css/main.f9e6b034.chunk.css",
+    "static/js/main.d79114e6.chunk.js"
+  ]
+}
